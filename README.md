@@ -5,7 +5,7 @@
 ### Trajectory Analysis
 
 | Title (Year)                                                 | Keyword                       | Journal | file (code) | review |
-| ------------------------------------------------------------ | ----------------------------- | ------- | ----------- | ------ |
+| :----------------------------------------------------------- | ----------------------------- | ------- | ----------- | ------ |
 | Applying Deep Learning to Basketball Trajectories            | `trajectory` `classification` | arxiv   |             |        |
 | Convolutional LSTM based transportation mode learning from raw GPS trajectories |                               |         |             |        |
 | Deep feature extraction from trajectories for transportation mode estimation |                               |         |             |        |
@@ -31,4 +31,5 @@
 | ------------------------------------------------------------ | ------- | ---------- | ------------------------------------- | ------ |
 | U-Net: Convolutional Networks for Biomedical Image Segmentation (2015) |         | *Springer* | [file](papers/diffusion_model/01.pdf) |        |
 | Denoising Diffusion Probabilistic Models (2020)              |         | *NeurlPS*  | [file](papers/diffusion_model/02.pdf) |        |
+| MNIST-C: A Robustness Benchmark for Computer Vision (2019)   |         | *arXiv*    | [file](papers/diffusion_model/03.pdf) |        |
 
