@@ -4,14 +4,14 @@
 
 ### Trajectory Analysis
 
-| Title (Year)                                                 | Keyword                       | Journal | file (code) | review |
-| :----------------------------------------------------------- | ----------------------------- | ------- | ----------- | ------ |
-| Applying Deep Learning to Basketball Trajectories            | `trajectory` `classification` | arxiv   |             |        |
-| Convolutional LSTM based transportation mode learning from raw GPS trajectories |                               |         |             |        |
-| Deep feature extraction from trajectories for transportation mode estimation |                               |         |             |        |
-| TrajectoryNet: An Embedded GPS Trajectory Representation for Point-based Classification Using Recurrent Neural Networks |                               |         |             |        |
-| Using Deep Learning for Trajectory Classification            |                               |         |             |        |
-| Surround Vehicles Trajectory Analysis with Recurrent Neural Networks |                               |         |             |        |
+| Title (Year)                                                 | Keyword                             | Journal | file (code) | review |
+| :----------------------------------------------------------- | ----------------------------------- | ------- | ----------- | ------ |
+| Applying Deep Learning to Basketball Trajectories            | `trajectory` <br />`classification` | arxiv   |             |        |
+| Convolutional LSTM based transportation mode learning from raw GPS trajectories |                                     |         |             |        |
+| Deep feature extraction from trajectories for transportation mode estimation |                                     |         |             |        |
+| TrajectoryNet: An Embedded GPS Trajectory Representation for Point-based Classification Using Recurrent Neural Networks |                                     |         |             |        |
+| Using Deep Learning for Trajectory Classification            |                                     |         |             |        |
+| Surround Vehicles Trajectory Analysis with Recurrent Neural Networks |                                     |         |             |        |
 
 
 
@@ -27,9 +27,10 @@
 
 ### Diffusion model
 
-| Title (Year)                                                 | Keyword | Journal    | file (code)                           | review |
-| ------------------------------------------------------------ | ------- | ---------- | ------------------------------------- | ------ |
-| U-Net: Convolutional Networks for Biomedical Image Segmentation (2015) |         | *Springer* | [file](papers/diffusion_model/01.pdf) |        |
-| Denoising Diffusion Probabilistic Models (2020)              |         | *NeurlPS*  | [file](papers/diffusion_model/02.pdf) |        |
-| MNIST-C: A Robustness Benchmark for Computer Vision (2019)   |         | *arXiv*    | [file](papers/diffusion_model/03.pdf) |        |
+| Title (Year)                                                 | Keyword                                             | Journal    | file (code)                           | review |
+| ------------------------------------------------------------ | --------------------------------------------------- | ---------- | ------------------------------------- | ------ |
+| U-Net: Convolutional Networks for Biomedical Image Segmentation (2015) |                                                     | *Springer* | [file](papers/diffusion_model/01.pdf) |        |
+| Denoising Diffusion Probabilistic Models (2020)              | `generation`                                        | *NeurlPS*  | [file](papers/diffusion_model/02.pdf) |        |
+| MNIST-C: A Robustness Benchmark for Computer Vision (2019)   | `mnist` `corruption`                                | *arXiv*    | [file](papers/diffusion_model/03.pdf) |        |
+| Non Gaussian Denoising Diffusion Models (2021)               | `mixture gaussian noise` <br />`gamma distribution` | *arXiv*    | [file](papers/diffusion_model/04.pdf) |        |
 
