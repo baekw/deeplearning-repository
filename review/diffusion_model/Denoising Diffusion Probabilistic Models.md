@@ -79,3 +79,7 @@ def make_noisy(self, x_zeros, t):
 
 
 
+>Reference
+>
+>- https://medium.com/@vedantjumle/image-generation-with-diffusion-models-using-keras-and-tensorflow-9f60aae72ac
+>  
