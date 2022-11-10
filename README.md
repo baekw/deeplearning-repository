@@ -11,9 +11,7 @@
 | **[Attention Is All you need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (2017)** | `attention`  | `Transformer`        | [review](review/NLP/Transformer.pdf)      |      |
 | **[Transformer Networks for trajectory forecasting](https://ieeexplore.ieee.org/abstract/document/9412190) (2021)** | `trajectory` | `Transformer` `Bert` | [review](review/NLP/Traj_transformer.pdf) |      |
 
-
-
-
+.
 
 ## Multi-modal Deep learning
 
@@ -22,9 +20,7 @@
 | **[Multimodal Deep Learning](https://openreview.net/forum?id=Hk4OO3W_bS) (2011)** | `audio` `video` |        | [review](review/multimodal/01.pdf) |      |
 | **[Deep Multimodal Learning : A survey on recent advances and trends](https://ieeexplore.ieee.org/abstract/document/8103116?casa_token=3QJUj-90u5UAAAAA:CffQ9-BxsuXgtgzfDF-5cpbwibAJl2go2euv2BNidp_e9rwQgnsc5hRhWDo0M1WGrc_m_4Mov34) (2017)** | `Survey`        |        |                                    |      |
 
-
-
-
+.
 
 ## Generation
 
