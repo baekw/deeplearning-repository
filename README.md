@@ -4,10 +4,10 @@
 
 ## NLP (Natural Language Processing)
 
-| Title (Year)                                                 | Keyword      | Method               | Review                               | Code |
-| ------------------------------------------------------------ | ------------ | -------------------- | ------------------------------------ | ---- |
-| [**Attention Is All you need**](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (**2017**) | `attention`  | `Transformer`        | [review](review/NLP/Transformer.pdf) |      |
-| [**Transformer Networks for trajectory forecasting**](https://ieeexplore.ieee.org/abstract/document/9412190) (2021) | `trajectory` | `Transformer` `Bert` |                                      |      |
+| Title (Year)                                                 | Keyword      | Method               | Review                                    | Code |
+| ------------------------------------------------------------ | ------------ | -------------------- | ----------------------------------------- | ---- |
+| [**Attention Is All you need**](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (**2017**) | `attention`  | `Transformer`        | [review](review/NLP/Transformer.pdf)      |      |
+| [**Transformer Networks for trajectory forecasting**](https://ieeexplore.ieee.org/abstract/document/9412190) (2021) | `trajectory` | `Transformer` `Bert` | [review](review/NLP/Traj_transformer.pdf) |      |
 
 
 
