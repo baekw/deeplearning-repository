@@ -5,7 +5,7 @@
 #### Natural Language Processing (자연어 처리)
 
 - Attention is All you need (2017)
-  - `attention mechanism`,` transformer`
+  - `attention mechanism`, `transformer`
   - [Original Paper Link](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | [Paper Review](review/NLP/Transformer.pdf)
 - Transformer Networks for trajectory forecasting (2021)
   - `trajectory`, `transformer`, `bert`
