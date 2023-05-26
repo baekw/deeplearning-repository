@@ -37,7 +37,6 @@
 #### Deep Learning Robustness
 
 - MNIST-C: A Robustness Benchmark for Computer Vision (2019)
-
   - `mnist`, `corruption`
   - [Original Paper Link](https://arxiv.org/abs/1906.02337)
 
