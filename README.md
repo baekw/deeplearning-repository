@@ -12,6 +12,12 @@
   - [Original Paper Link](https://ieeexplore.ieee.org/abstract/document/9412190) | [Paper Review](review/NLP/Traj_transformer.pdf)
 
 
+#### Diffusion Generative Model (디퓨전 생성모델)
+
+- Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces (2023)
+  - [Original Paper Link](https://arxiv.org/abs/2305.11089)
+
+
 #### Generative Model, Image Generation (생성모델 및 이미지 생성)
 
 - Auto-Encoding Variational Bayes (2013)
