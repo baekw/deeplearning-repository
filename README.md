@@ -17,6 +17,8 @@
 
 - Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces (2023)
   - [Original Paper Link](https://arxiv.org/abs/2305.11089)
+- Iterative 𝛼-(de)Blending: a Minimalist Deterministic Diffusion Model
+  - [Original Paper](./papers/2305.03486.pdf)
 
 
 #### Generative Model, Image Generation (생성모델 및 이미지 생성)
