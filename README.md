@@ -3,12 +3,16 @@
 
 - Attention is All you need (2017) | [paper](./papers/transformer.pdf)| [review](./review/transformer.pdf)
 
+  > Importance : ⭐⭐⭐⭐⭐
+  >
   > Summary : 기존 RNN 계열의 Seq2Seq 모델은 병목현상이라는 한계를 가지고 있었다. 어텐션 메커니즘은 입력 시퀀스를 임베딩한 후, 차원의 축소없이 시간 정보를 더하여 처리를 한다. 
   >
   > Keyword : `attention mechanism`, `transformer`
 
 - Transformer Networks for trajectory forecasting (2021) | paper | [review](./review/traj_transformer.pdf)
 
+  > Importance : ⭐⭐⭐
+  >
   > Summary : 
   >
   > Keyword : `trajectory`, `transformer`, `bert`
@@ -17,6 +21,8 @@
 
 - Denoising Diffusion Probabilistic Models (2020) | [paper](./papers/ddpm.pdf) | [review](./review/ddpm.md)
 
+  > Importance : ⭐⭐⭐⭐⭐
+  >
   > Summary : 
 
 - Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces (2023)
@@ -34,8 +40,10 @@
   
   > Keyword: 
   
-- GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (2017) | [paper](./papers/fid_score.pdf)| [review](./review/fid_score.md)
+- GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (2017) | [paper](./papers/fid_score.pdf) | [review](./review/fid_score.md)
 
+  > Importance : ⭐⭐⭐⭐
+  >
   > Keyword: `fid-score`
 
 
