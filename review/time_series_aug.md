@@ -15,7 +15,7 @@
 |                      | 3. Window Warping        | - DTW와 유사<br />- 임의의 구간을 **압축하거나 확장**.<br />- 시퀀스 전체 길이에 영향을 준다. |
 |                      | 4. Flipping              | - 데이터의 부호를 변환. 양수는 음수로 음수는 양수로          |
 |                      | 5. Ensemble              | - DTW를 실행하고 각 window sample들에 가중치가 곱해진 ensemble version의 샘플을 활용 |
-|                      | 6. Noise Injection       | - 작은 크기의 noise나 outlier를 삽입.<br />(1) <u>Gaussian noise</u><br />(2) <u>Spike</u> : 임의의 인덱스를 택해 임의의 값을 대입.<br />스파이크성 잡음<br />![image-20220708071936601](.\img\image-20220708071936601.png)<br /><br />![image-20220708074832462](.\img\image-20220708074832462.png)<br />(3) <u>Step-like trend</u> : left index에서부터 right index까지의 spike 누적합<br />(4) <u>slope-like trend</u> : 기존 데이터셋에 선형 값을 대입 |
+|                      | 6. Noise Injection       | - 작은 크기의 noise나 outlier를 삽입.<br />(1) <u>Gaussian noise</u><br />(2) <u>Spike</u> : 임의의 인덱스를 택해 임의의 값을 대입.<br />스파이크성 잡음<br />![image-20220708071936601](.\imgs\image-20220708071936601.png)<br /><br />![image-20220708074832462](.\imgs\image-20220708074832462.png)<br />(3) <u>Step-like trend</u> : left index에서부터 right index까지의 spike 누적합<br />(4) <u>slope-like trend</u> : 기존 데이터셋에 선형 값을 대입 |
 |                      | 7. Label Expansion       |                                                              |
 | **Frequency Domain** |                          |                                                              |
 

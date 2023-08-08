@@ -6,7 +6,7 @@
 
 ### Diffusion based generative model
 
-![image-20221004235929063](D:\Onedrive\OneDrive - 인하대학교\papers-repository\review\diffusion_model\img\image-20221004235929063.png)
+![image-20221004235929063](.\imgs\image-20221004235929063.png)
 
 - Iterative Markov chain 사용하며, 생성에 활용되는 조건부 확률분포 $P_{\theta}(x_{t-1}|x_t)$를 학습시키기 위해 Diffusion Process $q(x_t|x_{t-1})$를 활용
 
@@ -28,7 +28,7 @@
 
 ### 3.1 Forward process
 
-![image-20221005001005893](D:\Onedrive\OneDrive - 인하대학교\papers-repository\review\diffusion_model\img\image-20221005001005893.png)
+![image-20221005001005893](.\imgs\image-20221005001005893.png)
 
 - 노이즈가 주입되는 양을 $\beta_t$로 표현한다.
 
@@ -58,24 +58,6 @@ def make_noisy(self, x_zeros, t):
 ```
 
 - $q(X_t|X_{t-1}) = \sqrt {1-\beta_t} X_{t-1} + \sqrt {\beta_t} \epsilon_{t-1}$
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

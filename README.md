@@ -1,13 +1,13 @@
 # All-about-Deep-learning
 #### Natural Language Processing (자연어 처리)
 
-- Attention is All you need (2017) | [paper](./papers/transformer.pdf)| study
+- Attention is All you need (2017) | [paper](./papers/transformer.pdf)| [review](./review/transformer.pdf)
 
   > Summary : 기존 RNN 계열의 Seq2Seq 모델은 병목현상이라는 한계를 가지고 있었다. 어텐션 메커니즘은 입력 시퀀스를 임베딩한 후, 차원의 축소없이 시간 정보를 더하여 처리를 한다. 
   >
   > Keyword : `attention mechanism`, `transformer`
 
-- Transformer Networks for trajectory forecasting (2021) | paper | study
+- Transformer Networks for trajectory forecasting (2021) | paper | [review](./review/traj_transformer.pdf)
 
   > Summary : 
   >
@@ -15,7 +15,7 @@
 
 #### Diffusion Generative Model (디퓨전 생성모델)
 
-- Denoising Diffusion Probabilistic Models (2020) | [paper](./papers/ddpm.pdf)
+- Denoising Diffusion Probabilistic Models (2020) | [paper](./papers/ddpm.pdf) | [review](./review/ddpm.md)
 
   > Summary : 
 
@@ -34,14 +34,14 @@
   
   > Keyword: 
   
-- GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (2017) | [paper](./papers/fid_score.pdf)| study
+- GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (2017) | [paper](./papers/fid_score.pdf)| [review](./review/fid_score.md)
 
   > Keyword: `fid-score`
 
 
 #### Multimodal Deep learning
 
-- Multimodal Deep Learning (2011) | [paper](./papers/multimodal_dl.pdf)| study
+- Multimodal Deep Learning (2011) | [paper](./papers/multimodal_dl.pdf)| [review](./review/multimodal_dl.pdf)
 
   > Keyword : `audio dataset`, `video dataset`
 
