@@ -1,4 +1,4 @@
-# All-about-Deep-learning
+# Deep-Reviewer
 #### Natural Language Processing (자연어 처리)
 
 - Attention is All you need (2017) | [paper](./papers/transformer.pdf)| [review](./review/transformer.pdf)
