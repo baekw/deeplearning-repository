@@ -6,7 +6,7 @@
 ### Lecture / Textbook
 
 - 케라스 창시자에게 배우는 딥러닝
-  - [[2-1]. 신경망과의 첫 만남.]()
+  - [2. 신경망과의 첫 만남]()
 
 
 
@@ -20,7 +20,7 @@
 ### Jrnl/Conf Papers
 
 - **Deep Learning Basic (딥러닝 기초)**
-  - GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium [[Paper]()] ⭐⭐⭐
+  - GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium [[Paper]()] [[Review](./review/fid_score.md)] ⭐⭐⭐
     - Neurips 2017 / Heusel, M. et al.
 
 - **Attention mechanism (트랜스포머, 어텐션 메커니즘)**
@@ -29,13 +29,13 @@
   - Transformer Networks for trajectory forecasting [[Paper]()] [[Review](./review/traj_transformer.pdf)] Multimodal Deep Learning
     - ICPR 2021 / Giuliari, Francesco, et al.
 - **Diffusion generative models (디퓨전 생성모델)**
-  - Denoising Diffusion Probabilistic Models [[Paper]()] [[Review]()] ⭐⭐⭐⭐
+  - Denoising Diffusion Probabilistic Models [[Paper]()] [[Review](./review/ddpm.md)] ⭐⭐⭐⭐
     - Neurips 2020 / Ho, Jonathan, et al.
 - **Deep Learning Robustness (딥러닝 강건성)**
-  - MNIST-C: A Robustness Benchmark for Computer Vision [[Paper](./papers/mnist_c.pdf)] [[Review]()] ⭐⭐⭐
+  - MNIST-C: A Robustness Benchmark for Computer Vision [[Paper](./papers/mnist_c.pdf)] ⭐⭐⭐
     - ArXiv 2019 / Mu, et al.
-  - Augmix : A Simple Data Processing Method to Improve Robustness and Uncertainty [[Paper](./papers/augmix.pdf)] [[]()] ⭐⭐⭐
+  - Augmix : A Simple Data Processing Method to Improve Robustness and Uncertainty [[Paper](./papers/augmix.pdf)]  ⭐⭐⭐
     - ArXiv 2019 / Hendrycks, D. et al.
 - **Multimodal Deeplearning (멀티모달 딥러닝)**
-  - Multimodal Deep Learning [[Paper]()] [[Review]()] ⭐⭐⭐⭐
+  - Multimodal Deep Learning [[Paper]()] [[Review](./review/multimodal_dl.pdf)] ⭐⭐⭐⭐
     - ICML 2011 / Ngiam, J. et al.
