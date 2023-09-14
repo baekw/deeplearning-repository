@@ -1,70 +1,41 @@
-# Deep-Review
-#### Natural Language Processing (자연어 처리)
+# All-about-Deep-Learning
+- 이 레포는 **딥러닝/머신러닝**과 관련된 다양한 자료, 논문들을 정리하여 요약 및 리뷰를 하는 모음입니다.
 
-- Attention is All you need (2017) | [paper](./papers/transformer.pdf)| [review](./review/transformer.pdf)
+## Resources
 
-  > Importance : ⭐⭐⭐⭐⭐
-  >
-  > Summary : 기존 RNN 계열의 Seq2Seq 모델은 병목현상이라는 한계를 가지고 있었다. 어텐션 메커니즘은 입력 시퀀스를 임베딩한 후, 차원의 축소없이 시간 정보를 더하여 처리를 한다. 
-  >
-  > Keyword : `attention mechanism`, `transformer`
+### Lecture / Textbook
 
-- Transformer Networks for trajectory forecasting (2021) | paper | [review](./review/traj_transformer.pdf)
-
-  > Importance : ⭐⭐⭐
-  >
-  > Summary : 
-  >
-  > Keyword : `trajectory`, `transformer`, `bert`
-
-#### Diffusion Generative Model (디퓨전 생성모델)
-
-- Denoising Diffusion Probabilistic Models (2020) | [paper](./papers/ddpm.pdf) | [review](./review/ddpm.md)
-
-  > Importance : ⭐⭐⭐⭐⭐
-  >
-  > Summary : 
-
-- Blackout Diffusion: Generative Diffusion Models in Discrete-State Spaces (2023)
-
-  > Summary : 
-
-- Iterative 𝛼-(de)Blending: a Minimalist Deterministic Diffusion Model | [paper](./papers/alpha_blending.pdf)
-
-  > Summary : 
+- 케라스 창시자에게 배우는 딥러닝
+  - [[2-1]. 신경망과의 첫 만남.]()
 
 
-#### Generative Model, Image Generation (생성모델 및 이미지 생성)
-
-- Auto-Encoding Variational Bayes (2013) | paper | code
-  
-  > Keyword: 
-  
-- GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium (2017) | [paper](./papers/fid_score.pdf) | [review](./review/fid_score.md)
-
-  > Importance : ⭐⭐⭐⭐
-  >
-  > Keyword: `fid-score`
 
 
-#### Multimodal Deep learning
+### Related Links / Posts
 
-- Multimodal Deep Learning (2011) | [paper](./papers/multimodal_dl.pdf)| [review](./review/multimodal_dl.pdf)
-
-  > Keyword : `audio dataset`, `video dataset`
-
-- Deep Multimodal Learning : A survey on recent advances and trends (2017) | [paper](./papers/multimodal_survey)
-
-  > Keyword : `survey`
+- 딥러닝 스터디 자료 [[Link](https://bbongcol.github.io/deep-learning-bookmarks/)]
 
 
-#### Deep Learning Robustness (딥러닝 강건성)
 
-- MNIST-C: A Robustness Benchmark for Computer Vision (2019) | [paper](./papers/mnist_c)
+### Jrnl/Conf Papers
 
-  > Keyword : `mnist` `benchmark` `corruption`
+- **Deep Learning Basic (딥러닝 기초)**
+  - GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium [[Paper]()] ⭐⭐⭐
+    - Neurips 2017 / Heusel, M. et al.
 
-
-- Augmix : A Simple Data Processing Method to Improve Robustness and Uncertainty (2019) | [paper](./papers/augmix)
-
-  > Summary : `robustness`
+- **Attention mechanism (트랜스포머, 어텐션 메커니즘)**
+  - Attention is All you need [[Paper](./papers/transformer.pdf)] [[Review](./review/transformer.pdf)] ⭐⭐⭐⭐⭐
+    - Neurips2017 / Vaswani, Ashish, et al.
+  - Transformer Networks for trajectory forecasting [[Paper]()] [[Review](./review/traj_transformer.pdf)] Multimodal Deep Learning
+    - ICPR 2021 / Giuliari, Francesco, et al.
+- **Diffusion generative models (디퓨전 생성모델)**
+  - Denoising Diffusion Probabilistic Models [[Paper]()] [[Review]()] ⭐⭐⭐⭐
+    - Neurips 2020 / Ho, Jonathan, et al.
+- **Deep Learning Robustness (딥러닝 강건성)**
+  - MNIST-C: A Robustness Benchmark for Computer Vision [[Paper](./papers/mnist_c.pdf)] [[Review]()] ⭐⭐⭐
+    - ArXiv 2019 / Mu, et al.
+  - Augmix : A Simple Data Processing Method to Improve Robustness and Uncertainty [[Paper](./papers/augmix.pdf)] [[]()] ⭐⭐⭐
+    - ArXiv 2019 / Hendrycks, D. et al.
+- **Multimodal Deeplearning (멀티모달 딥러닝)**
+  - Multimodal Deep Learning [[Paper]()] [[Review]()] ⭐⭐⭐⭐
+    - ICML 2011 / Ngiam, J. et al.
