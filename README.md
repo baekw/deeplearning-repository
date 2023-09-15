@@ -25,17 +25,17 @@
 
 - **Attention mechanism (트랜스포머, 어텐션 메커니즘)**
   - Attention is All you need [[Paper](./papers/transformer.pdf)] [[Review](./review/transformer.pdf)] ⭐⭐⭐⭐⭐
-    - Neurips2017 / Vaswani, Ashish, et al.
-  - Transformer Networks for trajectory forecasting [[Paper]()] [[Review](./review/traj_transformer.pdf)] Multimodal Deep Learning
+    - Neurips 2017 / Vaswani, Ashish, et al.
+  - Transformer Networks for trajectory forecasting [[Paper]()] [[Review](./review/traj_transformer.pdf)] ⭐
     - ICPR 2021 / Giuliari, Francesco, et al.
 - **Diffusion generative models (디퓨전 생성모델)**
   - Denoising Diffusion Probabilistic Models [[Paper]()] [[Review](./review/ddpm.md)] ⭐⭐⭐⭐
     - Neurips 2020 / Ho, Jonathan, et al.
 - **Deep Learning Robustness (딥러닝 강건성)**
-  - MNIST-C: A Robustness Benchmark for Computer Vision [[Paper](./papers/mnist_c.pdf)] ⭐⭐⭐
+  - MNIST-C: A Robustness Benchmark for Computer Vision [[Paper](./papers/mnist_c.pdf)] ⭐⭐
     - ArXiv 2019 / Mu, et al.
-  - Augmix : A Simple Data Processing Method to Improve Robustness and Uncertainty [[Paper](./papers/augmix.pdf)]  ⭐⭐⭐
+  - Augmix : A Simple Data Processing Method to Improve Robustness and Uncertainty [[Paper](./papers/augmix.pdf)]  ⭐⭐
     - ArXiv 2019 / Hendrycks, D. et al.
 - **Multimodal Deeplearning (멀티모달 딥러닝)**
-  - Multimodal Deep Learning [[Paper]()] [[Review](./review/multimodal_dl.pdf)] ⭐⭐⭐⭐
+  - Multimodal Deep Learning [[Paper]()] [[Review](./review/multimodal_dl.pdf)] ⭐⭐⭐
     - ICML 2011 / Ngiam, J. et al.
