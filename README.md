@@ -27,3 +27,7 @@
   - ***ICML*** ([International Conference on Machine Learning](https://icml.cc/Conferences/2024) / Austria)
   - ***ECCV*** ([European Conference on Computer Vision](https://eccv2024.ecva.net/Conferences/2024) / Milano)
   - ***AAAI*** ([Association for the Advancement of Artificial Intelligence](https://aaai.org/aaai-conference/) / Vancouver)
+  - ***ACL*** ([Association for Computational Linguistics](https://2024.aclweb.org/) / Thailand)
+  - ***IJCAI*** ([International Joint Conference on Artificial Intelligence](https://ijcai24.org/) / Jeju island)
+  - ***KDD*** ([ACM International Conference on Knowledge Discovery and Data Mining](https://kdd2024.kdd.org/) / Barcelona)
+  - ***Interspeech*** ([International Speech Communication Association](https://interspeech2024.org/) / Greece)
