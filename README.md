@@ -7,8 +7,8 @@
 
 ### Paper reviews
 
-- **Attention is All you need (*NeurIPS 2017*)** [pdf](./Papers/Vaswani_Ashish_NIPS_2017.pdf) | [ppt](./Reviews/Vaswani_Ashish_NIPS_2017.pdf)
-- **Transformer Networks for trajectory forecasting (*ICPR 2021*)** [pdf](./Papers/Giuliari_Francesco_ICPR_2021.pdf) | [ppt](./Presentations/Giuliari_Francesco_ICPR_2021.pdf)
+- **Attention is All you need (*NeurIPS 2017*)** [pdf](./Papers/Vaswani_Ashish_NIPS_2017.pdf) / [ppt](./Reviews/Vaswani_Ashish_NIPS_2017.pdf)
+- **Transformer Networks for trajectory forecasting (*ICPR 2021*)** [pdf](./Papers/Giuliari_Francesco_ICPR_2021.pdf) / [ppt](./Presentations/Giuliari_Francesco_ICPR_2021.pdf)
 
 ---
 
