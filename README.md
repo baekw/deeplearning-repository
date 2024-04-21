@@ -15,6 +15,7 @@
 ### Academic materials
 
 - **Top-tier AI conference** [(Link)](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
+  
   - ***CVPR*** ([IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/Conferences/2024) / Seattle on 2024)
   - ***ICLR*** ([International Conference on Learning Representations](https://iclr.cc/Conferences/2024) / Austria)
   - ***NeurIPS*** ([Neural Information Processing Systems](https://neurips.cc/Conferences/2023) / New Orleans)
