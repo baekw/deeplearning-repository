@@ -7,14 +7,8 @@
 
 ### Paper reviews
 
-- **Attention is All you need (*NeurIPS 2017*)** `NLP`
-  - [Paper PDF](./Papers/Vaswani_Ashish_NIPS_2017.pdf) | [Presentation PDF](./Reviews/Vaswani_Ashish_NIPS_2017.pdf)
-- **Transformer Networks for trajectory forecasting (*ICPR 2021*)** `NLP`
-  - [Paper PDF](./Papers/Giuliari_Francesco_ICPR_2021.pdf) | [Presentation PDF](./Presentations/Giuliari_Francesco_ICPR_2021.pdf)
-- **Denoising Diffusion Probabilistic Models (*NeurIPS 2020*)** `Generation`
-  - [Paper PDF](./Papers/Ho_Jonathan_NIPS_2020.pdf) | [Paper Review](./Reviews/Ho_Jonathan_NIPS_2020.md)
-- **Semi-Supervised Classification with Graph Convolutional Networks (*ICLR 2017*)** `GNN`
-  - [Paper PDF](./Papers/Thomas_N_Kipf_ICLR_2017.pdf) 
+- **Attention is All you need (*NeurIPS 2017*)** [pdf](./Papers/Vaswani_Ashish_NIPS_2017.pdf) | [ppt](./Reviews/Vaswani_Ashish_NIPS_2017.pdf)
+- **Transformer Networks for trajectory forecasting (*ICPR 2021*)** [pdf](./Papers/Giuliari_Francesco_ICPR_2021.pdf) | [ppt](./Presentations/Giuliari_Francesco_ICPR_2021.pdf)
 
 ---
 
