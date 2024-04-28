@@ -7,15 +7,14 @@
 
 ### Paper reviews
 
-- **Attention is All you need (*NeurIPS 2017*)** [pdf](./Papers/Vaswani_Ashish_NIPS_2017.pdf) / [ppt](./Reviews/Vaswani_Ashish_NIPS_2017.pdf)
-- **Transformer Networks for trajectory forecasting (*ICPR 2021*)** [pdf](./Papers/Giuliari_Francesco_ICPR_2021.pdf) / [ppt](./Presentations/Giuliari_Francesco_ICPR_2021.pdf)
+- **Attention is All you need (*NeurIPS 2017*)** [link](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) / [ppt](./Presentations/Vaswani_Ashish_NIPS_2017.pdf)
+- **Transformer Networks for trajectory forecasting (*ICPR 2021*)** [link](https://arxiv.org/pdf/2003.08111) / [ppt](./Presentations/Giuliari_Francesco_ICPR_2021.pdf)
 
 ---
 
 ### Academic materials
 
 - **Top-tier AI conference** [(Link)](https://aideadlin.es/?sub=ML,CV,CG,NLP,RO,SP,DM,AP,KR,HCI)
-  
   - ***CVPR*** ([IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/Conferences/2024) / Seattle on 2024)
   - ***ICLR*** ([International Conference on Learning Representations](https://iclr.cc/Conferences/2024) / Austria)
   - ***NeurIPS*** ([Neural Information Processing Systems](https://neurips.cc/Conferences/2023) / New Orleans)
