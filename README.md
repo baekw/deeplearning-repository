@@ -3,17 +3,17 @@
 
 - **Explainable AI (XAI)**
 
-  - | Reference                                                    | Publication   | Review | Code                                                |
-    | ------------------------------------------------------------ | ------------- | ------ | --------------------------------------------------- |
-    | [Lundberg and Lee (2017)](https://proceedings.neurips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html) | ***NeurIPS*** |        | [shap value](./codes/Lundberg and Lee (2017).ipynb) |
+  - | Reference                                                    | Publication   | Review | Code                                              |
+    | ------------------------------------------------------------ | ------------- | ------ | ------------------------------------------------- |
+    | [Lundberg and Lee (2017)](https://proceedings.neurips.cc/paper_files/paper/2017/hash/8a20a8621978632d76c43dfd28b67767-Abstract.html) | ***NeurIPS*** |        | [shap value](./codes/Lundberg_and_Lee_2017.ipynb) |
     
     
 
 - **Natural Language Processing (NLP)**
 
-  - | Reference                                                    | Publication   | Review                                        | Code            |
-    | ------------------------------------------------------------ | ------------- | --------------------------------------------- | --------------- |
-    | [Vaswani et al. (2017)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | ***NeurIPS*** | [review](./reviews/Vaswani et al. (2017).pdf) | [transformer]() |
+  - | Reference                                                    | Publication   | Review                                     | Code            |
+    | ------------------------------------------------------------ | ------------- | ------------------------------------------ | --------------- |
+    | [Vaswani et al. (2017)](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) | ***NeurIPS*** | [review](./reviews/Vaswani_et_al_2017.pdf) | [transformer]() |
 
 ---
 
